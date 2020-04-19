@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server",
     "dev": "webpack --mode development",
-    "prod": "webpack --mode production"
+    "build": "webpack --mode production"
   },
   "author": "Vitali Karpuk",
   "license": "ISC",
